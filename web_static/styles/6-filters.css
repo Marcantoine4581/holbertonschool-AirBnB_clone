@@ -56,7 +56,7 @@ button:hover {
 }
 
 .popover {
-    display: ;
+    display: none;
     background-color: #FAFAFA;
     border: 1px solid #DDDDDD;
     padding-bottom: 30px;
