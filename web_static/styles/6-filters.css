@@ -57,11 +57,13 @@ button:hover {
 
 .popover {
     display: none;
+    position: relative;
     background-color: #FAFAFA;
     border: 1px solid #DDDDDD;
     padding-bottom: 30px;
     padding-top: 25px;
     margin-top: 0;
+    z-index: 1;
 }
 
 .filter div:hover .popover {
